@@ -1,0 +1,10 @@
+configuration {
+  show-icons:         false;
+  location:           1;
+  icon-theme:         "Reversal-black";
+  cycle:              true;
+  hide-scrollbar:     true;
+  disable-history:    true;
+  modi:               "drun";
+  display-drun:       "apps";
+}
